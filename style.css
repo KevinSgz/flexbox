@@ -1,0 +1,48 @@
+.pricing-container {
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+  }
+  h1 {
+    text-align: center;
+  }
+  .choose {
+    color: #05AFF2;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+  }
+  .pricing-plan {
+    text-align: center;
+    background-color: white;
+    height: 350px;
+    width: 300px;
+    padding-top: 50px;
+  }
+  .plan-title {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Oswald', sans-serif;
+  }
+  .plan-features {
+    list-style: none;
+    padding: 10px;
+    padding-bottom: 10px;
+  }
+
+  .plan-price {
+    font-size: 2rem;
+  }
+  .price {
+    font-family:'Oswald', sans-serif ;
+  }
+  .plan-button {
+    font-size: 1rem;
+  }
+
+  button {
+    background-color: #05AFF2;
+    color: white;
+    width: 6rem;
+    height: 3rem;
+    border: none;
+    border-radius: 5px;
+  }
